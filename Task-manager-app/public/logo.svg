@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  xiandan-kanban-app Logo (SVG)
+  Task Manager Logo (SVG)
   - Simple, background-free mark
   - Colored light blue by default
   - Scales cleanly at small and large sizes
@@ -18,7 +18,7 @@
   aria-labelledby="title desc"
   role="img"
 >
-  <title id="title">Xiandan Kanban Logo</title>
+  <title id="title">Task Manager Logo</title>
   <desc id="desc">Minimal kanban board mark with three columns and cards, no background</desc>
 
   <!-- Three subtle column rails -->

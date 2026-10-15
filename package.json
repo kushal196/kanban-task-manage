@@ -1,0 +1,12 @@
+{
+  "name": "kanban-task-manager",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix Task-manager-app run dev",
+    "build": "npm --prefix Task-manager-app run build",
+    "preview": "npm --prefix Task-manager-app run preview",
+    "test": "npm --prefix Task-manager-app run test",
+    "test:run": "npm --prefix Task-manager-app run test:run",
+    "lint": "npm --prefix Task-manager-app run lint"
+  }
+}
